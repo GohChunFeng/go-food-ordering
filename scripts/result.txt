@@ -1,0 +1,14 @@
+07:35:01 [ORDER] New Normal Order #1 added to PENDING
+07:35:01 [BOT]   Bot #1 Created and IDLE
+07:35:01 [BOT]   Bot #1 picked up Order #1 (Normal)
+07:35:02 [ORDER] New Normal Order #2 added to PENDING
+07:35:02 [ORDER] New VIP Order #3 added to PENDING
+07:35:04 [BOT]   Bot #2 Created and IDLE
+07:35:04 [BOT]   Bot #2 picked up Order #3 (VIP)
+07:35:05 [BOT]   Bot #2 Destroyed
+07:35:05 [WARN]  Bot #2 destroyed mid-process! Order #3 returned to PENDING
+07:35:11 [DONE]  Order #1 COMPLETE by Bot #1
+07:35:11 [BOT]   Bot #1 picked up Order #3 (VIP)
+07:35:21 [DONE]  Order #3 COMPLETE by Bot #1
+07:35:21 [BOT]   Bot #1 picked up Order #2 (Normal)
+07:35:31 [DONE]  Order #2 COMPLETE by Bot #1

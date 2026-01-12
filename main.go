@@ -184,7 +184,7 @@ func (m *Manager) botLoop(ctx context.Context, botID int) {
 // --- MAIN SIMULATION ---
 func main() {
 	// 1. Setup Logging
-	f, err := os.Create("result.txt")
+	f, err := os.Create("scripts/result.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
